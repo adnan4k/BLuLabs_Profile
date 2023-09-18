@@ -1,0 +1,10 @@
+.service--title{
+    color: hsl(236, 57%, 28%);
+    font-size: 1.85rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1.5;
+    text-align: center;
+   
+    margin: 100px;
+    font-style: italic;
+}
